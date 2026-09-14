@@ -15,7 +15,7 @@ Everything lands in your dashboard. No UI to build, no backend to maintain.
 
 | Platform | Repo | Status |
 | --- | --- | --- |
-| Android · Kotlin | [fedo-android](https://github.com/GetFedo/fedo-android) | Available |
+| Android · Kotlin | — | Available |
 | iOS · Swift | — | In development |
 | Flutter · Dart | — | Planned |
 | React Native · TypeScript | — | Planned |
