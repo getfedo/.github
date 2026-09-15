@@ -13,10 +13,10 @@ Everything lands in your dashboard. No UI to build, no backend to maintain.
 
 ### SDKs
 
-| Platform | Repo | Status |
+| Platform | Demo Repo | Status |
 | --- | --- | --- |
 | Android · Kotlin | — | Available |
-| iOS · Swift | — | In development |
+| iOS · Swift | [getfedo/fedo-ios-example](https://github.com/getfedo/fedo-ios-example) | In development |
 | Flutter · Dart | — | Planned |
 | React Native · TypeScript | — | Planned |
 
